@@ -47,12 +47,6 @@ CMD_BFS                     = 0x80
 CMD_BFC                     = 0xA0
 CMD_SRC                     = 0xFF
 
-# ENC28J60 register types
-ETH_REG_TYPE                         = 0x0000
-MAC_REG_TYPE                         = 0x1000
-MII_REG_TYPE                         = 0x2000
-PHY_REG_TYPE                         = 0x3000
-
 # ENC28J60 banks
 BANK_0                               = 0x00
 BANK_1                               = 0x20
